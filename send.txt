@@ -1,0 +1,75 @@
+I kind of over did it on this one, but it's stuff I think and get excited about, participate in, and write about every day ... so here we go...
+
+Below I outline the following:
+
+Part 1. : The last 10 years of eCommerce Investment
+VC market criteria
+Quick History
+Lack of VC Investment/Lack of Interesting Companies (Keith's point)
+Boom/Bust
+Lack of defensibility
+Capital Intensive
+Market Timing
+More Male VCs/Entrepreneurs than Female
+
+Part 2.: Why Now?
+Privates Sales Sites Reinvigorated eCommerce
+The model
+Market drivers
+Investment in Models not Technology
+Current Landscape & Market Dynamics
+Supply Chain Drivers
+POS & Payments
+Fulfillment & Logistics
+3D Printing
+B2B eCommerce
+Channels
+Mobile
+F-commerce
+X.Commerce
+
+Part 3.: New Models 
+Subscription
+Curation & Personalization
+Customization
+Consumer Merchandised Shops
+Access to New Inventory- Global
+Access to New Inventory- Local
+Collaborative Consumption
+Multi-Level Marketing
+Direct to Consumer
+Media + Commerce
+Shopping as a Game
+Personalization & Tastkemaking
+Marketplaces
+Hollywood Meets eCommerce
+-----------------------------------------------------------------
+Part 1. : The last 10 years of eCommerce Investment
+-----------------------------------------------------------------
+
+What's hot to a VC?
+While each VC has its own strategy for investing, there are some common themes around the nature of industries and sectors that are attractive to venture capitalists.  (This does not include the micro-economics of a company or other elements that make a 'company' attractive--just sectors and the nature of their models).
+
+Large Market- In order for a company to grow into a billion dollar company, which is the idealized hope, there needs to be a lot of potential customers. However, on average, a VC expects to exit a company at least above $100M. Let's assume a 2x multiple on revenue (multiples could also be based on EBITDA ,take into account growth and a few other factors, and vary by sector, economic environment, etc..). So, for this example, to be doing about $50M in revenue , it would be easier to get 5% of a billion market than 50% of a $100M market. There will be competitors, there needs to be growth opportunity even upon exit, and even despite itself, a company will stumble into customers and get to a decent run rate in a large market.  Additionally, VCs invest in large opportunities due to the risk/reward tradeoff  (ie if they aren't going to potentially have a low IRR then, they might as well invest in something of lower risk that would have comparable returns). Most VCs take a portfolio model approach since most companies fail, they need a few big wins to compensate. Lastly, VC funds are typically large and thus need to move the needle hence a billion dollar opportunity is required .
+Market Maturity/Timing- Is the market ready to adopt your product? What is the infrastructural situation that would make your product possible to use and business to scale? Will someone actually be ready and willing to use it or do you have to educate them? Timing is crucial. Most ideas are not new, they are just a new version of something that had already been attempted and failed because people or the infrastructure was previously not ready.
+Macro Changes- What's happening in the world that might drive adoption of X? This could be deregulation, better infrastructure or adoption of infrastructure, rising or decreasing costs of factor inputs or alternatives, etc...For instance, the rise in cost of oil will drive adoption of alternative energy hence the increase in investment in alternative energy over the past 10 years and more intensively recently. Another example is the CAN-SPAM act scarred investors from investing in email marketing software , which ultimately came back in fashion or at least a new permutation of it.
+High Growth Markets/Models- VCs have maximum horizon on their funds  , thus, they have to exit within 10 years--ideally 5. The economics of a business or sector must be such that it has a high growth opportunity. For example, think about the differences required to build and scale a software company vs. brick & mortar retail--capital intensive to setup, operate, and ultimately to scale. Because VCs want to have high growth businesses, traditional retail has inherent challenges to scale quickly, which is why you do not see a lot of venture investing in retail or other capital intensive industries.
+High GM- The nature of certain businesses have higher gross margins than others (e.g. software-high, shipping-low, commodities-low). For low margin businesses, you need volume, and with smaller startups, they don't have the distribution or volume to achieve financial viability. Higher margins on the sale of the product enables you to have more capital to work with for S&M , and high GM businesses typically have better cash flow.
+Profitable Distribution Model- The ability to acquire customers in a capital efficient way is extremely important to maintain a viable business (ie LTV>CAC) . This is both from a customer acquisition perspective and an operational one. It's all about growth, so models that can capital efficiently access and acquire customers and scale operations are appealing to VCs.
+Competitive Landscape- Does one or a few winners take all? Is it highly crowded? This also takes into account network effects , switching costs, and the possibility to usurp incumbents . Additionally, barriers to entry , which you can overcome but will be challenging to others, historically were more important than now . Defensibility for a specific company is important but less so for the general nature of a sector .  For example, think about the shift in perspective around IP or the interest in GroupOn. GroupOn had a competitive advantage of their distribution to consumers but the nature of the business has low barriers to entry.
+Exit multiples- The market assigns better multiples to certain industries and whether it's based on EV/Revenue , EV/EBITDA, or other ratios in non-monetized startups. This typically comes down to the financials and economics of a business (with the exception of non-monetized companies with lots of users or a talent acquisition). If you are going to finance a company, and there's just as much effort to build one vs. another with a higher multiple, you'd go with the latter. I won't get into the specifics as to why certain industries have better exit multiples here , but this to a degree plays a part in which sectors are attractive and is a result of aforementioned factors.
+
+I'm sure I missed a few sector factors, but those are some key ones. 
+
+So, how do those criteria relate to eCommerce...?
+
+Historical Dynamics
+Over the last 10+ years eCommerce has gone from  boom  to bust to diffusion to adoption and over the last few years is just coming out of its nascent stages. 
+
+First, to give some historical context, here's a fun infographic on the history of eCommerce starting in the 1960s...
+
+
+
+
+Lack of Historical Investment due of a Lack of Interesting Companies...
+Below I elaborate on a few of
